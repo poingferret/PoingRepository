@@ -1,8 +1,48 @@
-body {
+BODY {
   font-family: 'Open Sans', Arial, sans-sans-serif;
   color: #444;
   font-weight: 400;
   }
+
+strong {
+  color: #33485e;
+  text-transform: uppercase;
+  font-size: 1.5em;
+}
+
+h1 {
+    color:#33485e;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 3em;
+  }
+
+h2  {
+    font-size: 1.5em;
+    test-transform: uppercase;
+    background-color: #33485e;
+    color: #ffffff;
+    font-weight: 400;
+}
+
+h3 {
+    font-size: 1.5em;
+    font-weight: 600;
+}
+
+h4 {
+    font-size: 1.5em;
+    font-weight: 400;
+}
+h5 {
+    font-size: 1em;
+    font-style: italic;
+    font-weight: 400;
+}
+
+h6 {
+    font-size: 1em;
+}
 
 #name {
     color: 33485e;
