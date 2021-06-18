@@ -51,7 +51,7 @@ h6 {
     text-transform: uppercase;
     text-align: center;
     font-size: 3em;
-    border-bottom: 1px solid #33485e;
+    border-bottom: 5px solid #33485e;
     width: 60%;
     min-width: 300px;
     margin: 0 auto;
@@ -102,6 +102,7 @@ h6 {
 #organization {
   font-size: 1.25em;
   font-weight: 400;
+  text-decoration: bold;
 }
 
 #date {
