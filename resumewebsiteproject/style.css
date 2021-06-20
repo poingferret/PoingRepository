@@ -90,7 +90,6 @@ h6 {
   width: 100%;
   max-width: 1200px;
   margin: 0 auto;
-  padding-bottom: 50px;
 }
 
 #jobtitle {
@@ -132,12 +131,15 @@ h6 {
   font-size: 1em;
 }
 
-#menu {
-  display: inline-block;
-  margin: 0;
-  padding: 0;
-  list-style: none;
-  }
+.menu {
+  margin: 0px;
+  padding: 0px;
+  text-align: center;
+}
+
+.menu li {
+  display: inline;
+}
 
 #degrees {
   margin-top: 5px;
