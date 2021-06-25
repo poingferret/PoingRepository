@@ -16,7 +16,7 @@ BODY {
     color: 33485e;
     text-transform: uppercase;
     text-align: center;
-    font-size: 3em;
+    font-size: 6em;
     border-bottom: 5px solid #33485e;
     width: 60%;
     min-width: 300px;
@@ -123,4 +123,8 @@ BODY {
 
 a:hover {
   background-color: aqua;
+}
+
+#caption {
+  text-align: center;
 }
