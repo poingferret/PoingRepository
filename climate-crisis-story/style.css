@@ -1,8 +1,9 @@
 #headline {
   font-size: 3em;
   font-weight: 700;
-  text-align: center;
+  text-align: left;
   font-family: 'Montserrat', sans-serif;
+  color: #903;
 }
 
 #byline {
@@ -31,6 +32,7 @@ p {
   font-family: 'Montserrat', sans-serif;
   text-align: uppercase;
   text-align: left;
+  color: #903;
 }
 
 #figure {
@@ -63,7 +65,6 @@ p {
 
 .red{
   color: #f23030;
-
 }
 
 /* Hero/Splash area */
@@ -76,7 +77,10 @@ p {
 
 .hero-image {
   width: 100%;
+}
 
+#caption {
+  text-align: center;
 }
 
 .overlay {
@@ -132,4 +136,23 @@ p {
   .hero-hed {
     font-size: 1.5em;
   }
+}
+
+.firstcharacter {
+  color: #903;
+  float: left;
+  font-family: Georgia;
+  font-size: 75px;
+  line-height: 60px;
+  padding-top: 4px;
+  padding-right: 8px;
+  padding-left: 3px;
+}
+
+a:hover {
+  background-color: #F73718;
+}
+
+a:visited {
+  color: green;
 }
