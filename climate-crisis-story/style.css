@@ -14,14 +14,14 @@
 }
 
 p {
-  font-family: Georgia, serif;
+  font-family: Georgia, serif, sans-serif;
   line-height: 180%;
   font-size: 1em;
   }
 
 #row {
   font-size: 1em;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Montserrat', serif, sans-serif;
   text-align: uppercase;
   text-align: center;
 }
@@ -29,7 +29,7 @@ p {
 #chapter {
   font-size: 2em;
   font-weight: 700;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Montserrat', serif, sans-serif;
   text-align: uppercase;
   text-align: left;
   color: #903;
