@@ -3,8 +3,8 @@
   font-weight: 700;
   text-align: left;
   font-family: 'Montserrat', sans-serif;
-  color: #f23030;
-  border-top: 5px solid #f23030;
+  color: #903;
+  border-top: 5px solid #903;
 }
 
 body {
@@ -37,8 +37,8 @@ p {
   font-family: 'Montserrat', serif, sans-serif;
   text-align: uppercase;
   text-align: left;
-  color: #f23030;
-  border-bottom: 5px solid #f23030;
+  color: #903;
+  border-bottom: 5px solid #903;
 }
 
 #figure {
@@ -81,9 +81,8 @@ p {
 /* Hero/Splash area */
 
 .hero-container {
-  vertical-align: top;
   position: relative;
-  text-align: center;
+  text-align:center;
   color: #fff;
 }
 
@@ -97,14 +96,13 @@ p {
 
 .overlay {
   position: absolute;
-  top: 1%;
+  top: 20%;
   width: 100%;
   background-color: #000;
   opacity: .7;
 }
 
 .hero-hed {
-  position: relative;
   font-family: 'Playfair Display', serif;
   font-size: 6em;
   color: #fff;
@@ -148,7 +146,7 @@ p {
 }
 
 .firstcharacter {
-  color: #f23030;
+  color: #903;
   float: left;
   font-family: Georgia;
   font-size: 75px;
