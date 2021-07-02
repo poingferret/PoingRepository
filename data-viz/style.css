@@ -1,0 +1,11 @@
+#row {
+  font-size: 1em;
+  font-family: 'Montserrat', serif, sans-serif;
+  text-align: uppercase;
+  text-align: center;
+}
+
+#graph {
+  float: center;
+  width: 100%;
+}
