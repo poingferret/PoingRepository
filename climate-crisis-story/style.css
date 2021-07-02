@@ -4,6 +4,11 @@
   text-align: left;
   font-family: 'Montserrat', sans-serif;
   color: #903;
+  border-top: 5px solid #903;
+}
+
+body {
+  background-color: white;
 }
 
 #byline {
@@ -33,6 +38,7 @@ p {
   text-align: uppercase;
   text-align: left;
   color: #903;
+  border-bottom: 5px solid #903;
 }
 
 #figure {
