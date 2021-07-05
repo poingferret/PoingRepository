@@ -3,8 +3,8 @@
   font-weight: 700;
   text-align: left;
   font-family: 'Montserrat', sans-serif;
-  color: #903;
-  border-top: 5px solid #903;
+  color: #1C41B0;
+  border-top: 5px solid #1C41B0;
 }
 
 body {
@@ -37,8 +37,8 @@ p {
   font-family: 'Montserrat', serif, sans-serif;
   text-align: uppercase;
   text-align: left;
-  color: #903;
-  border-bottom: 5px solid #903;
+  color: #1C41B0;
+  border-bottom: 5px solid #1C41B0;
 }
 
 #figure {
@@ -75,7 +75,7 @@ p {
 }
 
 .red {
-  color: #f23030;
+  color: #1C41B0;
 }
 
 /* Hero/Splash area */
@@ -96,7 +96,7 @@ p {
 
 .overlay {
   position: absolute;
-  top: 20%;
+  top: 15%;
   width: 100%;
   background-color: #000;
   opacity: .7;
@@ -119,13 +119,13 @@ p {
 
 .quote {
   font-family: 'Montserrat', sans-serif;
-  color: #f23030;
+  color: #1C41B0;
   font-size: 3em;
   font-weight: 700;
   text-align: left;
   padding: 15px 0 15px 0;
-  border-top: 1px solid #f23030;
-  border-bottom: 1px solid #f23030;
+  border-top: 1px solid #1C41B0;
+  border-bottom: 1px solid #1C41B0;
   margin-top: 20px;
   margin-bottom: 20px;
 }
@@ -135,7 +135,7 @@ p {
   font-family: 'Montserrat', sans-serif;
   font-weight: 100;
   text-align: left;
-  color: #000;
+  color: #1C41B0;
 }
 
 @media (max-width: 700px){
@@ -146,7 +146,7 @@ p {
 }
 
 .firstcharacter {
-  color: #903;
+  color: #1C41B0;
   float: left;
   font-family: Georgia;
   font-size: 75px;
