@@ -85,7 +85,7 @@ p {
 
 .hero-container {
   position: relative;
-  text-align:center;
+  text-align: center;
   color: #fff;
 }
 
@@ -147,6 +147,10 @@ p {
   .hero-hed {
     font-size: 1.5em;
   }
+}
+
+.video {
+  position: center;
 }
 
 .firstcharacter {
